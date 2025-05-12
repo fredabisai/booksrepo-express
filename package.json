@@ -1,0 +1,9 @@
+{
+  "name": "booksrepo-express",
+  "version": "1.0.0",
+  "description": "Backend for booksrepo app",
+  "main": "index.ts",
+  "repository": "git@github.com:fredabisai/booksrepo-express.git",
+  "author": "Fredrick <fredabisai@gmail.com>",
+  "license": "MIT"
+}
